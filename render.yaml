@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: water-api
+    name: water-potability-api
     env: python
     buildCommand: pip install -r requirements.txt
-    startCommand: gunicorn app:app
+    startCommand: python app.py
