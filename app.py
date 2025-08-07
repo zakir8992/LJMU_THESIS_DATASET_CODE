@@ -24,8 +24,6 @@ from sklearn.metrics import precision_recall_curve
 from sklearn.metrics import f1_score
 
 #statmodel libraries
-from statsmodels.stats.outliers_influence import variance_inflation_factor
-import statsmodels.api as sm
 
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestClassifier
