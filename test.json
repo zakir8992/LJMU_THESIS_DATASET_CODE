@@ -1,0 +1,20 @@
+{
+    "pH": 7.0,
+    "Iron": 0.1,
+    "Nitrate": 5,
+    "Chloride": 50,
+    "Lead": 0.0,
+    "Zinc": 0.05,
+    "Turbidity": 3,
+    "Fluoride": 0.2,
+    "Copper": 0.3,
+    "Odor": 1,
+    "Sulfate": 200,
+    "Conductivity": 400,
+    "Chlorine": 1,
+    "Manganese": 0.1,
+    "Total Dissolved Solids": 300,
+    "Water Temperature": 15,
+    "Air Temperature": 20,
+    "Time of Day": 10
+}
