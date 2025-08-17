@@ -21,17 +21,14 @@ It includes **data preprocessing, model training, evaluation, and SHAP-based exp
 
 ## 📽️ Project Demo
 
-(https://youtu.be/slaSsgRFedk)
+https://youtu.be/MJgv4X27t40 
 
----
 
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
 
----
-
-## 🙋‍♂️ About Me
+##  About Me
 
 👤 Mohammed Zakir  
 🎓 PG Diploma & MSc in Data Science  
