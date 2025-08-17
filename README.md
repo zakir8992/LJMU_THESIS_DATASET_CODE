@@ -19,13 +19,20 @@ It includes **data preprocessing, model training, evaluation, and SHAP-based exp
 - Built an end-to-end ML pipeline with explainability  
 - Demonstrated real-time water quality monitoring  
 
-📽️ Project Demo
+## 📽️ Project Demo
 
+(https://youtu.be/slaSsgRFedk)
 
-📄 License
-This project is licensed under the MIT License.
+---
 
-🙋‍♂️ About Me
-👤 Mohammed Zakir
-🎓 PG Diploma & MSc in Data Science
-🌐 Portfolio
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## 🙋‍♂️ About Me
+
+👤 Mohammed Zakir  
+🎓 PG Diploma & MSc in Data Science  
+🌐 [Portfolio](https://zakir8992.github.io/Mohammed_zakir_portfolio/) 
