@@ -21,8 +21,8 @@ It includes **data preprocessing, model training, evaluation, and SHAP-based exp
 
 ## 📽️ Project Demo
 
-https://www.youtube.com/watch?v=riEjmBEqxJk 
-https://youtu.be/MJgv4X27t40 (For ServiceNow Custom Application integration with ML Model)
+- https://www.youtube.com/watch?v=riEjmBEqxJk 
+- https://youtu.be/MJgv4X27t40 (For ServiceNow Custom Application integration with ML Model)
 
 
 ## 📄 License
